@@ -7,4 +7,6 @@ echo "Today's date is : `date`"
 if [ cp file1 /tmp];
 then
    rm file1
+else
+   echo "No such file"
 fi
