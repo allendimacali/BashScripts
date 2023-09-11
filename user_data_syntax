@@ -2,3 +2,9 @@
 
 echo "Hello $USER!"
 echo "Today's date is : `date`"
+
+#Using if else
+if [ cp file1 /tmp];
+then
+   rm file1
+fi
