@@ -4,12 +4,15 @@
 
 # Netflix
 127.0.0.1 netflix.com
+127.0.0.1 www.netflix.com
 
 # Hulu
 127.0.0.1 hulu.com
+127.0.0.1 www.hulu.com
 
 # Amazon Prime Video
 127.0.0.1 primevideo.com
+127.0.0.1 www.primevideo.com
 
 # HBO Go
 127.0.0.1 hbogoasia.ph
@@ -17,3 +20,4 @@
 
 # Disney+
 127.0.0.1 disneyplus.com
+127.0.0.1 www.disneyplus.com
