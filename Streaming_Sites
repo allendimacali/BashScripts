@@ -1,4 +1,17 @@
-0.0.0.0 disneyplus.com
-0.0.0.0 hbogoasia.ph
-0.0.0.0 netflix.com
-0.0.0.0 youtube.com
+# YouTube
+127.0.0.1 youtube.com
+
+# Netflix
+127.0.0.1 netflix.com
+
+# Hulu
+127.0.0.1 hulu.com
+
+# Amazon Prime Video
+127.0.0.1 primevideo.com
+
+# HBO Go
+127.0.0.1 hbogoasia.ph
+
+# Disney+
+127.0.0.1 disneyplus.com
