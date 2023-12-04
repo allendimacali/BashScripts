@@ -20,3 +20,9 @@
 # Disney+
 127.0.0.1 disneyplus.com
 127.0.0.1 www.disneyplus.com
+
+# Spotify
+127.0.0.1 spotify.com
+127.0.0.1 open.spotify.com
+127.0.0.1 www.spotify.com
+127.0.0.1 accounts.spotify.com
