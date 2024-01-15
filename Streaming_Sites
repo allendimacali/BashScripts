@@ -29,3 +29,8 @@
 127.0.0.1 login5.spotify.com
 127.0.0.1 spclient.wg.spotify.com
 127.0.0.1 api-partner.spotify.com
+
+# Anime
+# This portion groups the list of anime domains that are being used
+127.0.0.1 aniwave.to
+127.0.0.1 aniwave.tv
