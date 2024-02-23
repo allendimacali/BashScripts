@@ -1,4 +1,5 @@
 sudo apt update
 sudo apt upgrade -y
+sudo apt install -y openjdk-11-jdk
 wget https://static.torocloud.com/martini-designer/latest/martini_designer_installer_unix.sh
 sudo reboot
