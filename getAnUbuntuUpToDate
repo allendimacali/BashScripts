@@ -1,3 +1,4 @@
 sudo apt update
 sudo apt upgrade -y
 sudo reboot
+wget https://static.torocloud.com/martini-designer/latest/martini_designer_installer_unix.sh
