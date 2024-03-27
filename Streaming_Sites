@@ -39,3 +39,8 @@
 127.0.0.1 aniwave.ws
 127.0.0.1 aniwave.vc
 127.0.0.1 aniwave.li
+
+# Move this section to a new file called Entertainment sites. Make sure you add this new file's link to your firewall.
+# Entertainment
+# 9gag
+127.0.0.1 9gag.com
