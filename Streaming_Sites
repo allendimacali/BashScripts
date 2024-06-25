@@ -22,15 +22,6 @@
 127.0.0.1 disneyplus.com
 127.0.0.1 www.disneyplus.com
 
-# Spotify
-127.0.0.1 spotify.com
-127.0.0.1 open.spotify.com
-127.0.0.1 www.spotify.com
-127.0.0.1 accounts.spotify.com
-127.0.0.1 login5.spotify.com
-127.0.0.1 spclient.wg.spotify.com
-127.0.0.1 api-partner.spotify.com
-
 # Anime
 # This portion groups the list of anime domains that are being used
 127.0.0.1 aniwave.to
